@@ -1,0 +1,47 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width: 100%;
+    height: 50px;
+    background-color: #5bc0de;
+    overflow: hidden;
+}
+.top .mecg{
+    display: inline-block;
+    margin-left:300px;
+    margin-top:20px;
+    font-size: 20px;
+
+}
+.top .fecg{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top:20px;
+    font-size: 20px;
+}
+.top input{
+    font-size: 20px;
+    text-align: center;
+}
+.middle{
+    width: 100%;
+    height: 30px;
+    background-color: #2b542c;
+
+}
+.middle .tog{
+    margin-left: 1120px;
+    margin-top: 2.5px;
+    font-size: 20px;
+}
+.show{
+    width: 100%;
+    min-height: 660px;
+    background-color: #9d9d9d;
+
+
+}
